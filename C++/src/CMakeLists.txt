@@ -1,0 +1,9 @@
+add_executable(trivia
+        GameRunner.cpp
+        Game.cpp
+        Game.h
+        Player.h
+        Category.cpp
+        Category.h
+        Question.h
+        EnumClassHash.h)
